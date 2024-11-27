@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+.nep {
+    color: indianred;
+    background-color: forestgreen;
+    text-align: center;
+}
+.neppie {
+    background-color: grey;
+}
+main{
+    width: 500px;
+}
